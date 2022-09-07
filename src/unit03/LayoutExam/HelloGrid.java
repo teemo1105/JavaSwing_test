@@ -9,6 +9,9 @@ import javax.swing.JPanel;
 
 public class HelloGrid extends JFrame{
 	HelloGrid(){
+		
+		
+		//변경점 저장
 		JPanel p = new JPanel();
 		p.setBackground(Color.cyan);
 		add(p);
